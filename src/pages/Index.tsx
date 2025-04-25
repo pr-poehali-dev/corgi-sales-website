@@ -133,7 +133,7 @@ const Index = () => {
       </section>
       
       {/* Puppies Section */}
-      <section className="py-16 bg-secondary">
+      <section className="py-16 bg-secondary/20">
         <div className="container px-4 md:px-6 mx-auto">
           <div className="flex justify-between items-center mb-10">
             <h2 className="text-3xl font-bold">Наши щенки</h2>
